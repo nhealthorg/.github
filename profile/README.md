@@ -27,6 +27,7 @@ Healthcare application development comes with unique challenges – strict stand
 
 - **Rapid Development**: Get your healthcare applications up and running quickly
 - **Modern Stack**: Built for Node.js and Bun, leveraging the latest in JavaScript/TypeScript ecosystems
+- **Deep Integration**: Seamlessly integrates with [UnJS Nitro](https://nitro.unjs.io/) and [Nuxt](https://nuxt.com/) for powerful, universal applications
 - **Standards Compliant**: Native support for healthcare standards like FHIR and DICOM
 - **Event-Driven**: Built-in support for scalable, event-driven architectures
 
