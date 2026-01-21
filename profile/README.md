@@ -18,7 +18,7 @@ An event system designed for queuing and connecting healthcare systems together.
 ### [nfhir](https://github.com/nhealthorg/nhealth) (formerly nhealth)
 A comprehensive toolkit for building FHIR-based healthcare applications. Designed to accelerate development while maintaining compliance with FHIR standards for healthcare data interoperability.
 
-### [node-dicom-rs](https://github.com/DevJoghurt/node-dicom-rs) *(Coming Soon)*
+### [node-dicom-rs](https://github.com/nhealthorg/node-dicom-rs)
 Medical imaging integration for Node.js applications. This upcoming tool will enable seamless DICOM support for healthcare applications, bridging the gap between imaging systems and modern web technologies.
 
 ## 💡 Why nhealth?
